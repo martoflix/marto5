@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="/logos/tntsports.png" group-title="Lista 16",TNT SPORTS https://blackghost.live/play/wistream-330.php?cat=latinos&ch=tnt-sports&k=black-ghost&f=.m3u8 #EXTINF:-1 tvg-logo="/logos/fox-sports-premium1.png" group-title="Lista 16",FOX SPORTS PREMIUM https://blackghost.live/play/wistream-330.php?cat=latinos&ch=fox-sports-premium&k=black-ghost&f=.m3u8 #EXTINF:-1 tvg-logo="/logos/tudn.png" group-title="Lista 16",TUDN https://blackghost.live/play/wistream-330.php?cat=latinos&ch=tudn&k=black-ghost&f=.m3u8 
 #EXTINF:-1 tvg-logo="/logos/goltvlatino.png" group-title="Lista 16",GOLTV Latino en vivo Online https://blackghost.live/play/wistream-330.php?cat=latinos&ch=goltvlatino&k=black-ghost&f=.m3u8 
 #EXTINF:-1 tvg-logo="/logos/beinlatino.png" group-title="Lista 16",Bein Sports Latino en vivo Online https://blackghost.live/play/wistream-330.php?cat=latinos&ch=beinlatino&k=black-ghost&f=.m3u8 
